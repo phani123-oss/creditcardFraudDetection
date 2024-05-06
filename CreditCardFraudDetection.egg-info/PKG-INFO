@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: CreditCardFraudDetection
+Version: 0.0.1
+Author: Phani
+Author-email: example@gmail.com
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: flask
+Requires-Dist: numpy
+Requires-Dist: ipykernel
+Requires-Dist: ipywidgets
+Requires-Dist: xgboost
